@@ -1,4 +1,4 @@
-# my-certificates
+# My Certificates
 
 [English](README.md) | 한국어
 
