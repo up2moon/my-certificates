@@ -16,6 +16,6 @@ This repository is for uploading the certificates I have acquired.
 
 ## Language Certificates
 
-| Title | Institution | Score                 | Date of Acquisition | Link                            |
-| ----- | ----------- | --------------------- | ------------------- | ------------------------------- |
-| TOEIC | ETS         | 955 (LC 475 / RC 480) | Oct 2022            | [Click](certificates/TOEIC.png) |
+| Title | Institution | Score | Date of Acquisition |
+| ----- | ----------- | ----- | ------------------- |
+| TOEIC | ETS         | 965   | Jan 2025            |
